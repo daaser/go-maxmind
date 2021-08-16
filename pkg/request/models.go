@@ -764,4 +764,3 @@ type PostInsightsJSONRequestBody PostInsightsJSONBody
 
 // PostScoreJSONRequestBody defines body for PostScore for application/json ContentType.
 type PostScoreJSONRequestBody PostScoreJSONBody
-

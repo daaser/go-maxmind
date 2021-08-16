@@ -1,4 +1,4 @@
-module github.com/daaser/maxmind
+module github.com/daaser/go-maxmind
 
 go 1.16
 

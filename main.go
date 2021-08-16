@@ -6,7 +6,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/daaser/maxmind/pkg/request"
+	"github.com/daaser/go-maxmind/pkg/request"
 	"go.uber.org/zap"
 )
 
